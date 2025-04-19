@@ -15,7 +15,7 @@
 - 🤝 Open to collaborations on impactful **GenAI, NLP, and Computer Vision** projects  
 - 💬 Let's talk about **Machine Learning, Deep Learning, APIs, AI applications, and all things Python**  
 - 📫 Reach me at: **vivekmadathiveetil@gmail.com** | 📱 **+91 94465 97007**  
-- ⚡ Fun fact: *AI developers are modern-day wizards, using neural networks and algorithms to bring machines to life. We don't wear robes, but we do cast spells—with code.* 🧙‍♂️
+- ⚡ Fun fact: *AI developers are modern-day wizards, using neural networks and algorithms to bring machines to life. We don't wear robes, but we do cast spells with code.* 🧙‍♂️
 
 ---
 
